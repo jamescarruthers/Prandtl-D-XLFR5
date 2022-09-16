@@ -11,4 +11,6 @@ Contains interpolated airfoils and the wing model.
 
 24 degrees sweep
 
+2 degreed dihedral
+
 Twists as per the table contained in the PDF (https://ntrs.nasa.gov/api/citations/20160003578/downloads/20160003578.pdf)
