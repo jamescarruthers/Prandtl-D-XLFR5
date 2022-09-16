@@ -1,7 +1,7 @@
 # Prandtl-D-XLFR5
 A project for analysing NASA's Prandtl-D wing.
 
-Contains interpolated airfoils and the wing model.
+Contains all the interpolated airfoils and the wing model.
 
 3750mm span
 
